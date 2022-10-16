@@ -1,0 +1,8 @@
+/** @format */
+
+*,
+*::after,
+*::before
+{
+  box-sizing: border-box;
+}
